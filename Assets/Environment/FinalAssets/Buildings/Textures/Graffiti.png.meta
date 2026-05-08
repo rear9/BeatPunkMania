@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: a043ccaaf01f5024fb7e66e4fb00028e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 202643358337004621
+    second: Graffiti_0
+  - first:
+      213: -5892555817867852117
+    second: Graffiti_1
+  - first:
+      213: -3733358573316697044
+    second: Graffiti_2
+  - first:
+      213: 3979801397061057552
+    second: Graffiti_3
+  - first:
+      213: -5343194330834968745
+    second: Graffiti_4
+  - first:
+      213: 4199587282994943658
+    second: Graffiti_5
+  - first:
+      213: -8800012291486293605
+    second: Graffiti_6
+  - first:
+      213: 4722470147639488686
+    second: Graffiti_7
+  - first:
+      213: -789470009197270245
+    second: Graffiti_8
+  - first:
+      213: 4575252656928569313
+    second: Graffiti_9
+  - first:
+      213: 529994615290152267
+    second: Graffiti_10
+  - first:
+      213: -1163767281755957739
+    second: Graffiti_11
+  - first:
+      213: 3048603200267769314
+    second: Graffiti_12
+  - first:
+      213: -7200042076629530332
+    second: Graffiti_13
+  - first:
+      213: 5443823648014002231
+    second: Graffiti_14
+  - first:
+      213: -1197729726949503449
+    second: Graffiti_15
+  - first:
+      213: 2471148161970744299
+    second: Graffiti_16
+  - first:
+      213: 3861007454739394043
+    second: Graffiti_17
+  - first:
+      213: -9042856810628035625
+    second: Graffiti_18
+  - first:
+      213: -554025661502379494
+    second: Graffiti_19
+  - first:
+      213: -300003981379194106
+    second: Graffiti_20
+  - first:
+      213: 2192971210488858448
+    second: Graffiti_21
+  - first:
+      213: -8409343529115455123
+    second: Graffiti_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graffiti_0
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1316
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f4cd8f0fefc200800000000000000
+      internalID: 202643358337004621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_1
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 978
+        width: 394
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba643d824bf693ea0800000000000000
+      internalID: -5892555817867852117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 768
+        width: 362
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249c426822703cc0800000000000000
+      internalID: -3733358573316697044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_3
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1261
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7d64e8481b3730800000000000000
+      internalID: 3979801397061057552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1261
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f53b8c01929d5b0800000000000000
+      internalID: -5343194330834968745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_5
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6592e226ee74a30800000000000000
+      internalID: 4199587282994943658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9163e2027310e580800000000000000
+      internalID: -8800012291486293605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_7
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0307c1495998140800000000000000
+      internalID: 4722470147639488686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1115
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1be8fc953d3b05f0800000000000000
+      internalID: -789470009197270245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_9
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7b3edfc009e7f30800000000000000
+      internalID: 4575252656928569313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_10
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454d396b4bea5700800000000000000
+      internalID: 529994615290152267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_11
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1059
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d6b9b2d779dfe0800000000000000
+      internalID: -1163767281755957739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1015
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5541d5570de4a20800000000000000
+      internalID: 3048603200267769314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_13
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 985
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42981a6f0ef441c90800000000000000
+      internalID: -7200042076629530332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_14
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 961
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738eeb7e3c85c8b40800000000000000
+      internalID: 5443823648014002231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_15
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 976
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ecf30c82fc06fe0800000000000000
+      internalID: -1197729726949503449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 965
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb20ad19284b4220800000000000000
+      internalID: 2471148161970744299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_17
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 756
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd60e6d2dd059530800000000000000
+      internalID: 3861007454739394043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 674
+        width: 13
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db4bcf44a1518280800000000000000
+      internalID: -9042856810628035625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 766
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a23b1a894bf48f0800000000000000
+      internalID: -554025661502379494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_20
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 750
+        width: 18
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b0bae7fb26dbf0800000000000000
+      internalID: -300003981379194106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_21
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 730
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c8d372bffe6e10800000000000000
+      internalID: 2192971210488858448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_22
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 724
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61f7d86d920c4b80800000000000000
+      internalID: -8409343529115455123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Graffiti_0: 202643358337004621
+      Graffiti_1: -5892555817867852117
+      Graffiti_10: 529994615290152267
+      Graffiti_11: -1163767281755957739
+      Graffiti_12: 3048603200267769314
+      Graffiti_13: -7200042076629530332
+      Graffiti_14: 5443823648014002231
+      Graffiti_15: -1197729726949503449
+      Graffiti_16: 2471148161970744299
+      Graffiti_17: 3861007454739394043
+      Graffiti_18: -9042856810628035625
+      Graffiti_19: -554025661502379494
+      Graffiti_2: -3733358573316697044
+      Graffiti_20: -300003981379194106
+      Graffiti_21: 2192971210488858448
+      Graffiti_22: -8409343529115455123
+      Graffiti_3: 3979801397061057552
+      Graffiti_4: -5343194330834968745
+      Graffiti_5: 4199587282994943658
+      Graffiti_6: -8800012291486293605
+      Graffiti_7: 4722470147639488686
+      Graffiti_8: -789470009197270245
+      Graffiti_9: 4575252656928569313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

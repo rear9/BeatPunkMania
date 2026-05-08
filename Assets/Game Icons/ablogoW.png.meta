@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 095ce4ce23032bb419d09f9f1306de03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5837675390453191579
+    second: ablogoW_0
+  - first:
+      213: -7635428017912009171
+    second: ablogoW_1
+  - first:
+      213: -8266646862099294283
+    second: ablogoW_2
+  - first:
+      213: -6922091901519809904
+    second: ablogoW_3
+  - first:
+      213: 5166732979110535925
+    second: ablogoW_4
+  - first:
+      213: 207322843519477809
+    second: ablogoW_5
+  - first:
+      213: 4942582056447922654
+    second: ablogoW_6
+  - first:
+      213: 4991338399970040965
+    second: ablogoW_7
+  - first:
+      213: -3051193962009718574
+    second: ablogoW_8
+  - first:
+      213: -1669633083649312318
+    second: ablogoW_9
+  - first:
+      213: -4336422171117535956
+    second: ablogoW_10
+  - first:
+      213: -4783973697248585316
+    second: ablogoW_11
+  - first:
+      213: -3194329116807145454
+    second: ablogoW_12
+  - first:
+      213: -2225928331280485209
+    second: ablogoW_13
+  - first:
+      213: -1170838913955474775
+    second: ablogoW_14
+  - first:
+      213: 6111435668794718769
+    second: ablogoW_15
+  - first:
+      213: -2677351612621906039
+    second: ablogoW_16
+  - first:
+      213: -9154681866627707345
+    second: ablogoW_17
+  - first:
+      213: -2350136190184862188
+    second: ablogoW_18
+  - first:
+      213: -8966653250634676371
+    second: ablogoW_19
+  - first:
+      213: -1501906253653271583
+    second: ablogoW_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ablogoW_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 158
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c6ff569296cfea0800000000000000
+      internalID: -5837675390453191579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2a440ca2890690800000000000000
+      internalID: -7635428017912009171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 175
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b759fc3a78f64d80800000000000000
+      internalID: -8266646862099294283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 175
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092bd43271acfef90800000000000000
+      internalID: -6922091901519809904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 176
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ed2d154ce3b740800000000000000
+      internalID: 5166732979110535925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 175
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1386dc9170f80e200800000000000000
+      internalID: 207322843519477809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 175
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15cc38134979440800000000000000
+      internalID: 4942582056447922654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 154
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1bfb54dbc44540800000000000000
+      internalID: 4991338399970040965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 81
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d01899e14bf7a5d0800000000000000
+      internalID: -3051193962009718574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b7d77e8544d8e0800000000000000
+      internalID: -1669633083649312318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_10
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 152
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d396eb20fe1d3c0800000000000000
+      internalID: -4336422171117535956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 81
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c999fa8d449eb9db0800000000000000
+      internalID: -4783973697248585316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 82
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d501b7967ba3d0800000000000000
+      internalID: -3194329116807145454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 82
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47c86e9f9eb11e0800000000000000
+      internalID: -2225928331280485209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 82
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2da7c063850cfe0800000000000000
+      internalID: -1170838913955474775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 81
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a392a6c5e20d450800000000000000
+      internalID: 6111435668794718769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_16
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 82
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1adeb4e228dad0800000000000000
+      internalID: -2677351612621906039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 81
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e02fb885904f080800000000000000
+      internalID: -9154681866627707345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 82
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ecd3a2693a26fd0800000000000000
+      internalID: -2350136190184862188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_19
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 60
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6781db306c009380800000000000000
+      internalID: -8966653250634676371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ablogoW_20
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 82
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb1f014838282be0800000000000000
+      internalID: -1501906253653271583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ablogoW_0: -5837675390453191579
+      ablogoW_1: -7635428017912009171
+      ablogoW_10: -4336422171117535956
+      ablogoW_11: -4783973697248585316
+      ablogoW_12: -3194329116807145454
+      ablogoW_13: -2225928331280485209
+      ablogoW_14: -1170838913955474775
+      ablogoW_15: 6111435668794718769
+      ablogoW_16: -2677351612621906039
+      ablogoW_17: -9154681866627707345
+      ablogoW_18: -2350136190184862188
+      ablogoW_19: -8966653250634676371
+      ablogoW_2: -8266646862099294283
+      ablogoW_20: -1501906253653271583
+      ablogoW_3: -6922091901519809904
+      ablogoW_4: 5166732979110535925
+      ablogoW_5: 207322843519477809
+      ablogoW_6: 4942582056447922654
+      ablogoW_7: 4991338399970040965
+      ablogoW_8: -3051193962009718574
+      ablogoW_9: -1669633083649312318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

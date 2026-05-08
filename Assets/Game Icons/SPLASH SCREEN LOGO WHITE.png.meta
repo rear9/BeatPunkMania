@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 3c10adb29ffc38f4e8b8864777739e45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8326482708722815467
+    second: SPLASH SCREEN LOGO WHITE_0
+  - first:
+      213: -4433428705543145225
+    second: SPLASH SCREEN LOGO WHITE_1
+  - first:
+      213: 2214330236793306819
+    second: SPLASH SCREEN LOGO WHITE_2
+  - first:
+      213: -1287734959799910505
+    second: SPLASH SCREEN LOGO WHITE_3
+  - first:
+      213: 7286823077762565507
+    second: SPLASH SCREEN LOGO WHITE_4
+  - first:
+      213: 7050842159078451287
+    second: SPLASH SCREEN LOGO WHITE_5
+  - first:
+      213: -3486882213983718777
+    second: SPLASH SCREEN LOGO WHITE_6
+  - first:
+      213: 1795019727079323846
+    second: SPLASH SCREEN LOGO WHITE_7
+  - first:
+      213: 3050336124913598609
+    second: SPLASH SCREEN LOGO WHITE_8
+  - first:
+      213: -5313132981506191242
+    second: SPLASH SCREEN LOGO WHITE_9
+  - first:
+      213: 1966013394674944875
+    second: SPLASH SCREEN LOGO WHITE_10
+  - first:
+      213: 1340009624576922008
+    second: SPLASH SCREEN LOGO WHITE_11
+  - first:
+      213: -8140878088114696990
+    second: SPLASH SCREEN LOGO WHITE_12
+  - first:
+      213: -9022012989523700289
+    second: SPLASH SCREEN LOGO WHITE_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_0
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 222
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ee42e8714627c80800000000000000
+      internalID: -8326482708722815467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8b415e41c4972c0800000000000000
+      internalID: -4433428705543145225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb87b4e91eabe10800000000000000
+      internalID: 2214330236793306819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f364470eb012ee0800000000000000
+      internalID: -1287734959799910505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 68
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38508236bfeff1560800000000000000
+      internalID: 7286823077762565507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 67
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7582833369f99d160800000000000000
+      internalID: 7050842159078451287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 71
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827fd5c91b1c9fc0800000000000000
+      internalID: -3486882213983718777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 65
+        width: 69
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b16d6ee039e810800000000000000
+      internalID: 1795019727079323846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 71
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19044035b88f45a20800000000000000
+      internalID: 3050336124913598609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 73
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67059e814b5f346b0800000000000000
+      internalID: -5313132981506191242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_10
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 60
+        width: 97
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b824d14cea84b10800000000000000
+      internalID: 1966013394674944875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 73
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891138467aba89210800000000000000
+      internalID: 1340009624576922008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 63
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8926d28ac50f80800000000000000
+      internalID: -8140878088114696990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASH SCREEN LOGO WHITE_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 66
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5da789cfe5bc280800000000000000
+      internalID: -9022012989523700289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPLASH SCREEN LOGO WHITE_0: -8326482708722815467
+      SPLASH SCREEN LOGO WHITE_1: -4433428705543145225
+      SPLASH SCREEN LOGO WHITE_10: 1966013394674944875
+      SPLASH SCREEN LOGO WHITE_11: 1340009624576922008
+      SPLASH SCREEN LOGO WHITE_12: -8140878088114696990
+      SPLASH SCREEN LOGO WHITE_13: -9022012989523700289
+      SPLASH SCREEN LOGO WHITE_2: 2214330236793306819
+      SPLASH SCREEN LOGO WHITE_3: -1287734959799910505
+      SPLASH SCREEN LOGO WHITE_4: 7286823077762565507
+      SPLASH SCREEN LOGO WHITE_5: 7050842159078451287
+      SPLASH SCREEN LOGO WHITE_6: -3486882213983718777
+      SPLASH SCREEN LOGO WHITE_7: 1795019727079323846
+      SPLASH SCREEN LOGO WHITE_8: 3050336124913598609
+      SPLASH SCREEN LOGO WHITE_9: -5313132981506191242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

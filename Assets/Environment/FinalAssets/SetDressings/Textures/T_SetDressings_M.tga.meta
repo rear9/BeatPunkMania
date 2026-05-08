@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 99ea5f04d52469749bc55342192901f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -263061911204749822
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_0
+  - first:
+      213: -6476552838560699847
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_1
+  - first:
+      213: -7100995802846957430
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_2
+  - first:
+      213: -1503688430828218586
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_3
+  - first:
+      213: -1370048429725896733
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_4
+  - first:
+      213: 7615197498790616015
+    second: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1136
+        height: 1247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e94b4e59a695cf0800000000000000
+      internalID: -263061911204749822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_1
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 26
+        width: 935
+        height: 1972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aaa80f189ae16a0800000000000000
+      internalID: -6476552838560699847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_2
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 15
+        width: 38
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8074c3a0f1347d90800000000000000
+      internalID: -7100995802846957430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_3
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 39
+        width: 14
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279e9bc653d12be0800000000000000
+      internalID: -1503688430828218586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_4
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 41
+        width: 47
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2b15463c9cfce0800000000000000
+      internalID: -1370048429725896733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombinedForTexturing_lp_CheckTester_MetallicSmoothness_5
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9bd137cd9ea960800000000000000
+      internalID: 7615197498790616015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_0: -263061911204749822
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_1: -6476552838560699847
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_2: -7100995802846957430
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_3: -1503688430828218586
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_4: -1370048429725896733
+      CombinedForTexturing_lp_CheckTester_MetallicSmoothness_5: 7615197498790616015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

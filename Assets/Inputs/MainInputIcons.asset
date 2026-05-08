@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fdc4671e9b7d2c48ab3628d52d7edce, type: 3}
+  m_Name: MainInputIcons
+  m_EditorClassIdentifier: 
+  xboxIcons:
+  - controlPath: buttonSouth
+    icon: {fileID: 21300000, guid: aa512232d84dd0845ac0522f540f814c, type: 3}
+  - controlPath: buttonEast
+    icon: {fileID: 21300000, guid: e0d1efa3297baf74b90349ea603d2f13, type: 3}
+  - controlPath: buttonWest
+    icon: {fileID: 21300000, guid: b912311b5a89db644b94bf1ad33ebb9b, type: 3}
+  - controlPath: buttonNorth
+    icon: {fileID: 21300000, guid: e589dc64ae106e940bcd9bbe33afb5b9, type: 3}
+  - controlPath: leftShoulder
+    icon: {fileID: 21300000, guid: b4d80ceb881d2c044bdd1a287cd87708, type: 3}
+  - controlPath: rightShoulder
+    icon: {fileID: 21300000, guid: ad7a56735b67f8f4da29cd1e810b35a5, type: 3}
+  - controlPath: leftTrigger
+    icon: {fileID: 21300000, guid: d6faff9adbd15d34b90c12cbbaa549d2, type: 3}
+  - controlPath: rightTrigger
+    icon: {fileID: 21300000, guid: 82a6dc2ff2ff891458b297d450f84222, type: 3}
+  - controlPath: dpad/up
+    icon: {fileID: 21300000, guid: 6b744094837c88342a22a89caae41529, type: 3}
+  - controlPath: dpad/left
+    icon: {fileID: 21300000, guid: 77e690dd82d31184b8009c46a6c64a08, type: 3}
+  - controlPath: dpad/right
+    icon: {fileID: 21300000, guid: cca3d4344abf7c4458aa08dd2e037983, type: 3}
+  - controlPath: dpad/down
+    icon: {fileID: 21300000, guid: 166f2620fc2b3e14f8de5f01deceb387, type: 3}
+  playstationIcons:
+  - controlPath: buttonSouth
+    icon: {fileID: 21300000, guid: 056da92ab91c0064490be29c038f8ef0, type: 3}
+  - controlPath: buttonEast
+    icon: {fileID: 21300000, guid: 5b90d7b7d235f8a42a4225d25f5aec84, type: 3}
+  - controlPath: buttonWest
+    icon: {fileID: 21300000, guid: 17dcd398b8da3b94b9dd17f94895453c, type: 3}
+  - controlPath: buttonNorth
+    icon: {fileID: 21300000, guid: 580fe8036dd6ab64fbdd1e2a1ac91e8e, type: 3}
+  - controlPath: leftShoulder
+    icon: {fileID: 21300000, guid: d8bfce3c5e2a74b4696f0f9acc2d8b71, type: 3}
+  - controlPath: rightShoulder
+    icon: {fileID: 21300000, guid: 95b38ac62a9286b4eb7cfba75eef317e, type: 3}
+  - controlPath: leftTrigger
+    icon: {fileID: 21300000, guid: 96c399116a8182d4ab1252d59601f1c6, type: 3}
+  - controlPath: rightTrigger
+    icon: {fileID: 21300000, guid: 9c303730649047046b70693e4c4e5df4, type: 3}
+  - controlPath: dpad/up
+    icon: {fileID: 21300000, guid: b9c1b78c7d0be434ea238d3f2944d5b9, type: 3}
+  - controlPath: dpad/left
+    icon: {fileID: 21300000, guid: 7b6d1e3a230ee764b8b335c7b3633036, type: 3}
+  - controlPath: dpad/right
+    icon: {fileID: 21300000, guid: bd559a199caea004780cb579570228ba, type: 3}
+  - controlPath: dpad/down
+    icon: {fileID: 21300000, guid: c1af2014276a5574ba077fe63a7fe504, type: 3}
+  keyboardIcons:
+  - controlPath: a
+    icon: {fileID: 21300000, guid: 70733fd4914d91840bd877c6957e0636, type: 3}
+  - controlPath: b
+    icon: {fileID: 21300000, guid: 51e9713dd73a9fd49bdb5826453cbea9, type: 3}
+  - controlPath: c
+    icon: {fileID: 21300000, guid: 92cadc8868c6afb439cb0ee02a99fd2e, type: 3}
+  - controlPath: d
+    icon: {fileID: 21300000, guid: d43f75cce6fe50f45b4c2d056e4dedfb, type: 3}
+  - controlPath: e
+    icon: {fileID: 21300000, guid: 198c00742028a664a82ced6667b6dfdd, type: 3}
+  - controlPath: f
+    icon: {fileID: 21300000, guid: 9511954883f75b045a0eb9a24e2b53e8, type: 3}
+  - controlPath: g
+    icon: {fileID: 21300000, guid: e387da5a9d651c4458abfabc938dd197, type: 3}
+  - controlPath: h
+    icon: {fileID: 21300000, guid: 112e26ed80c2fcb4bb7fc409624909b8, type: 3}
+  - controlPath: i
+    icon: {fileID: 21300000, guid: 5d71109bfaa7eb744af8cd7635dd8214, type: 3}
+  - controlPath: j
+    icon: {fileID: 21300000, guid: 6dc4876e7b777ad4fad209df631ef418, type: 3}
+  - controlPath: k
+    icon: {fileID: 21300000, guid: 2a4409912742e224394767b75345be05, type: 3}
+  - controlPath: l
+    icon: {fileID: 21300000, guid: 755a33338f38b6d4c99b6f661c6ababe, type: 3}
+  - controlPath: m
+    icon: {fileID: 21300000, guid: 4ffd7cc8c45f22840b6386e38809776a, type: 3}
+  - controlPath: n
+    icon: {fileID: 21300000, guid: 1978e94d3c06e584cb91d9dd4c50eda7, type: 3}
+  - controlPath: o
+    icon: {fileID: 21300000, guid: ddeb34666b713a541926c1fa3caa97c5, type: 3}
+  - controlPath: p
+    icon: {fileID: 21300000, guid: 2f6aee1c3bf8b7d4a8851191b77c1da2, type: 3}
+  - controlPath: q
+    icon: {fileID: 21300000, guid: d263e2d2e48e05d40bef2e7702e374ca, type: 3}
+  - controlPath: r
+    icon: {fileID: 21300000, guid: 15ef88a4797c9974ea4bbf074cbf3e65, type: 3}
+  - controlPath: s
+    icon: {fileID: 21300000, guid: faf0c4283e5b0264fb5d9b634d2386bb, type: 3}
+  - controlPath: t
+    icon: {fileID: 21300000, guid: 91c3e6df49558bd4b9b69eaf350f745f, type: 3}
+  - controlPath: u
+    icon: {fileID: 21300000, guid: d9313e28f5331794c82381901c3e01cf, type: 3}
+  - controlPath: v
+    icon: {fileID: 21300000, guid: 7db7be9c80516974584e4288abb7bc09, type: 3}
+  - controlPath: w
+    icon: {fileID: 21300000, guid: 06df8605239fd3a44983ba8283b119db, type: 3}
+  - controlPath: x
+    icon: {fileID: 21300000, guid: f22127e6a419bcd48850a7e93d879b2b, type: 3}
+  - controlPath: y
+    icon: {fileID: 21300000, guid: 9081f0cb5c8334a4eb8e3fac94aca08e, type: 3}
+  - controlPath: z
+    icon: {fileID: 21300000, guid: 5237a8a2c3b923f40b398e0e4e12fa9f, type: 3}
+  - controlPath: space
+    icon: {fileID: 21300000, guid: b9982fbe56eebfe4ba431b5d2b7a31eb, type: 3}
+  - controlPath: delete
+    icon: {fileID: 21300000, guid: 972a28ad25272814aa001d9c252d2dfc, type: 3}
+  - controlPath: pagedown
+    icon: {fileID: 21300000, guid: 18c417701849b8f4daefb765fe72ac15, type: 3}
+  - controlPath: enter
+    icon: {fileID: 21300000, guid: 2f9fcf724b48531479bf7046dc9b2ce3, type: 3}
+  - controlPath: backspace
+    icon: {fileID: 21300000, guid: 0a5ac0dd6d41aca4caf728c29c7a2134, type: 3}
+  - controlPath: 1
+    icon: {fileID: 21300000, guid: fca729d03d031f6448f26d53e47a8b19, type: 3}
+  - controlPath: 2
+    icon: {fileID: 21300000, guid: d67b1a0b1c11d1249813d1d9a79490b3, type: 3}
+  - controlPath: 3
+    icon: {fileID: 21300000, guid: 947733f03a83a69468eb5ee9804d0b09, type: 3}
+  - controlPath: 4
+    icon: {fileID: 21300000, guid: f0221f3a223755a43b16e2cb498ff394, type: 3}
+  - controlPath: 5
+    icon: {fileID: 21300000, guid: eeed2ab6b8b1f1046bd93a29e290d12e, type: 3}
+  - controlPath: 6
+    icon: {fileID: 21300000, guid: f32d591727cc4af4495f38c75810876c, type: 3}
+  - controlPath: 7
+    icon: {fileID: 21300000, guid: ae861cb584f39f741b3d36892ba115f4, type: 3}
+  - controlPath: 8
+    icon: {fileID: 21300000, guid: d7dd4a7a417722f44b80806286a3bcce, type: 3}
+  - controlPath: 9
+    icon: {fileID: 21300000, guid: 65987c38403c2e44db18434fc8e935ee, type: 3}
+  - controlPath: 0
+    icon: {fileID: 21300000, guid: d725276fe5141df4d9f9671446657ae9, type: 3}
+  - controlPath: leftarrow
+    icon: {fileID: 21300000, guid: b4c112ebf6d4aa74691654c197176307, type: 3}
+  - controlPath: rightarrow
+    icon: {fileID: 21300000, guid: b94592acb449d0f4d8d6bac0b19a81b9, type: 3}
+  - controlPath: uparrow
+    icon: {fileID: 21300000, guid: af6b50de033360542816dd49e09b8e29, type: 3}
+  - controlPath: downarrow
+    icon: {fileID: 21300000, guid: 2f593b11d532c7d47911365017fa33df, type: 3}
+  - controlPath: 0
+    icon: {fileID: 21300000, guid: d725276fe5141df4d9f9671446657ae9, type: 3}
+  genericIcons: []
+  fallbackIcon: {fileID: 21300000, guid: 9f9b257cb6b70b94fa7af528bb448d5f, type: 3}
