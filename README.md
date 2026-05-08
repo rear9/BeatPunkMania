@@ -1,10 +1,10 @@
-BEAT PUNK MANIA is a two player, competitive rhythm-action game. Set in a dystopian future, it follows the story of Alex and Lydia, two students competing ferociously in a battle of the bands.
+**BEAT PUNK MANIA** is a **two player, competitive rhythm-action** game. Set in a dystopian future, it follows the story of Alex and Lydia, two students competing ferociously in a battle of the bands.
 
-A usual mundane school year turns into a rivalry story between two unknown girls with contrasting personalities that clash from day-to-day basis. Until one evening, they had decided to duel it out on the alley stage with dozen pairs of eyes as witnesses. What will be the fate of the winner and the loser of this epic battle? 
+_A usual mundane school year turns into a rivalry story between two unknown girls with contrasting personalities that clash from day-to-day basis. Until one evening, they had decided to duel it out on the alley stage with dozen pairs of eyes as witnesses. What will be the fate of the winner and the loser of this epic battle? 
+_
+_Itch:_ https://little-isopod.itch.io/beat-punk-mania
 
-Itch: https://little-isopod.itch.io/beat-punk-mania
-
-CREDITS:
+_CREDITS:
 
 Little Isopod
 
@@ -20,4 +20,4 @@ Sydney Jay Samuel – Environmental Artist
 
 Michael Tran – Programming
 
-Lorcan Grace – Programming  ││  Narrative Design
+Lorcan Grace – Programming  ││  Narrative Design_
