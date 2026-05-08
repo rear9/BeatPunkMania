@@ -8,10 +8,16 @@ _CREDITS:_
 
 _Little Isopod_
 
-_Nathalie Victoria Lechien – Production ││ Game Design ││ UI/UX Design_ \n
-_Louis Lauckland Steeman – Gameplay Design ││ Audio Design_ \n
+_Nathalie Victoria Lechien – Production ││ Game Design ││ UI/UX Design_
+
+_Louis Lauckland Steeman – Gameplay Design ││ Audio Design_
+
 _Nathalie Sriwiboonrattana – Narrative Design ││ UI/UX Design ││ Audio Design_
+
 _Benny Burns – Character Artist_
+
 _Sydney Jay Samuel – Environmental Artist_
+
 _Michael Tran – Programming_
+
 _Lorcan Grace – Programming  ││  Narrative Design_
